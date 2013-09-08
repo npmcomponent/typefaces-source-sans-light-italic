@@ -1,5 +1,4 @@
-
-# source-sans-light italic
+# source-sans-light-italic
   
   The [Source Sans](https://typekit.com/fonts/source-sans-pro) light italic typeface.
 
