@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-sans-light-italic",
+  "description": "The Source Sans light italic typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
